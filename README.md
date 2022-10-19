@@ -1,6 +1,6 @@
 # My CV
 
-Eager Python developer with 1,5 years of experience.  Well acquainted with database engineering, data processing and Python web
+Eager Python developer with 2 years of experience.  Well acquainted with database engineering, data processing and Python web
 frameworks. In love with data journalism and data viz. 
 
 I decided to pursue development after a career in journalism to have the power of technology and data to back my words up with. I am a self-starter, and am constantly advancing my skills on my own time in addition to my formal bootcamp training.
