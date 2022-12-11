@@ -27,7 +27,7 @@ Some examples:
 ## SKILLS
 * Python, SQL, CSS, HTML, started learning JavaScript, interested in Go
 * Django, Flask, FastApi
-* Postgres, SqlAlchemy, Redis, Elasticsearch
+* Postgres, SqlAlchemy, Redis, Elasticsearch, MongoDB
 * Pandas, Selenium, Aiohttp
 * Linux, Docker, GIT 
 * Parsing, scraping, ETL, REST API
