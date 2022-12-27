@@ -7,7 +7,12 @@ I decided to pursue development after a career in journalism to have the power o
 
 ## Experience
 
-**01.2022 - ongoing**, Junior Python Developer at [Transparency International Russia](https://github.com/TI-Russia).
+
+**10.2022 - ongoing**, Python Developer at [Joompers](http://joompers.com/).
+Joompers - is a platform that provides tools for content creators to run a subscription service. 
+* Developed and maintainig API that covers core service functionality (authentication, content creation, following)
+
+**01.2022 - ongoing**, Python Developer at [Transparency International Russia](https://github.com/TI-Russia).
 
 
 Worked on ["Declarator"](https://declarator.org/en/) - the largest database of socially significant information about Russian public servants.
@@ -25,13 +30,13 @@ Some examples:
 * "Pocket-RSS" - [RSS-aggregator](https://github.com/kbondar17/pocket-rss) in Telegram
 
 ## SKILLS
-* Python, SQL, CSS, HTML, started learning JavaScript, interested in Go
-* Django, Flask, FastApi
+* Python, SQL, CSS, HTML, learning JavaScript (React), interested in Go
+* FastApi, Django, Flask 
 * Postgres, SqlAlchemy, Redis, Elasticsearch, MongoDB
 * Pandas, Selenium, Aiohttp
 * Linux, Docker, GIT 
 * Parsing, scraping, ETL, REST API
-* I speak Russian and English
+* I speak English and Russian  
 
 
 
