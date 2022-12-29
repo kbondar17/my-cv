@@ -12,9 +12,9 @@ I dream of joining a team of professionals to work hard on non-trivial challenge
 **10.2022 - ongoing**, Python Developer at [Joompers](http://joompers.com/).
 
 Joompers - is a platform that provides tools for content creators to run a subscription service. 
-Communicate with the client to better understand his needs
-Lead a team of three to developed, deployed and maintain back end that covers core service functionality (authentication, content creation, following etc.)
-Implemented CI/CD pipelines and instill a culture of clean code.
+* Communicate with the client to better understand his needs
+* Lead a team of three to developed, deployed and maintain back end that covers core service functionality (authentication, content creation, following etc.)
+* Implemented CI/CD pipelines and instill a culture of clean code.
 
 
 **01.2022 - ongoing**, Python Developer at [Transparency International Russia](https://github.com/TI-Russia).
