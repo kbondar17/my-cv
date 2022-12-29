@@ -1,16 +1,21 @@
-# My CV
+# Cyrill's CV
 
-Eager Python developer with 2 years of experience.  Well acquainted with database engineering, data processing and Python web
-frameworks. In love with data journalism and data viz. 
+Certified Python developer with 3+ years of experience. Well acquainted with database engineering, data processing and Python web frameworks. I decided to pursue development after a career in journalism to have the power of technology to back my words up with. I am a self-starter, and am constantly advancing my skills on my own time in addition to my bootcamp training.
 
-I decided to pursue development after a career in journalism to have the power of technology and data to back my words up with. I am a self-starter, and am constantly advancing my skills on my own time in addition to my formal bootcamp training.
+I dream of joining a team of professionals to work hard on non-trivial challenges
+
+
 
 ## Experience
 
 
 **10.2022 - ongoing**, Python Developer at [Joompers](http://joompers.com/).
+
 Joompers - is a platform that provides tools for content creators to run a subscription service. 
-* Developed and maintainig API that covers core service functionality (authentication, content creation, following)
+Communicate with the client to better understand his needs
+Lead a team of three to developed, deployed and maintain back end that covers core service functionality (authentication, content creation, following etc.)
+Implemented CI/CD pipelines and instill a culture of clean code.
+
 
 **01.2022 - ongoing**, Python Developer at [Transparency International Russia](https://github.com/TI-Russia).
 
@@ -22,15 +27,17 @@ Worked on ["Declarator"](https://declarator.org/en/) - the largest database of s
 * Automated data flow on day-to-day tasks with Python
 * Developed unofficial [API](https://github.com/kbondar17/pravo.gov-api) for Russian legal acts database (because the official one is horrible).
 
-**04.2021 - ongoing**, Freelance Python developer.
+**2020.02 - 09.2021**, ["Medsi"](https://medsi.com/).
 
-Most of the jobs were related to web-scraping, data vizualization and Telegram-bot development. 
-Some examples:
-* Topic modeling and [visualization](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fkbondar17-telegram-viz-streamlit-app-f63q2m.streamlitapp.com%2F) of content of top telegram channels.
-* "Pocket-RSS" - [RSS-aggregator](https://github.com/kbondar17/pocket-rss) in Telegram
+"Medsi" is a leading private clinics network in Russia - more 12,000 employees and 93 medical facilities. 
+
+* Developed a dozen of inner instruments and scripts for analysts
+* Worked on developing a complex ETL system that collected and processed data about work of thousands of doctors
+* Made dashboards for analytical purposes. [Example](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fkbondar17-telegram-viz-streamlit-app-f63q2m.streamlitapp.com%2F).
+
 
 ## SKILLS
-* Python, SQL, CSS, HTML, learning JavaScript (React), interested in Go
+* Python3, SQL, CSS, HTML, JS, JQuery, interested in Go.
 * FastApi, Django, Flask 
 * Postgres, SqlAlchemy, Redis, Elasticsearch, MongoDB
 * Pandas, Selenium, Aiohttp
