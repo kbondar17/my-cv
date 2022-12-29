@@ -9,7 +9,7 @@ I dream of joining a team of professionals to work hard on non-trivial challenge
 ## Experience
 
 
-**10.2022 - ongoing**, Python Developer at [Joompers](http://joompers.com/).
+**10.2022 - ongoing**, Python Developer at Joompers.
 
 Joompers - is a platform that provides tools for content creators to run a subscription service. 
 * Communicate with the client to better understand his needs
